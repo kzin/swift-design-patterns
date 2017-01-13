@@ -8,7 +8,6 @@ class User {
         name = "Singleton"
         age = 20
     }
-    
 }
 
 let user = User.sharedInstance

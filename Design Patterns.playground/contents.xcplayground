@@ -6,5 +6,6 @@
         <page name='Decorator'/>
         <page name='Factory'/>
         <page name='Singleton'/>
+        <page name='Command'/>
     </pages>
 </playground>
