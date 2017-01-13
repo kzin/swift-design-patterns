@@ -10,5 +10,8 @@
         <page name='Adapter'/>
         <page name='Facade'/>
         <page name='Template Method'/>
+        <page name='Iterator'/>
+        <page name='Composite'/>
+        <page name='State'/>
     </pages>
 </playground>
