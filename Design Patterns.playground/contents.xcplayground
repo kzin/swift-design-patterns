@@ -8,5 +8,7 @@
         <page name='Singleton'/>
         <page name='Command'/>
         <page name='Adapter'/>
+        <page name='Facade'/>
+        <page name='Template Method'/>
     </pages>
 </playground>

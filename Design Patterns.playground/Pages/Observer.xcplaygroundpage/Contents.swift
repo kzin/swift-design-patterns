@@ -1,5 +1,3 @@
-import Foundation
-
 protocol Observable {
     func registerObserver(observer: Observer)
     func removeObserver(observer: Observer)

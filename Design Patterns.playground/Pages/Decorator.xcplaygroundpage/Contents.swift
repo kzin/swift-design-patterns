@@ -3,7 +3,7 @@ protocol Beverage {
     func description() -> String
 }
 
-class Coffe: Beverage {
+class Coffee: Beverage {
     func cost() -> Double {
         return 0.95
     }
@@ -55,7 +55,7 @@ class Whip: Beverage {
     }
 }
 
-var darkRoast: Beverage = Coffe()
+var darkRoast: Beverage = Coffee()
 darkRoast = Mocha(beverage: darkRoast)
 darkRoast = Mocha(beverage: darkRoast)
 darkRoast = Whip(beverage: darkRoast)
