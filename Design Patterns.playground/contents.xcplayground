@@ -7,5 +7,6 @@
         <page name='Factory'/>
         <page name='Singleton'/>
         <page name='Command'/>
+        <page name='Adapter'/>
     </pages>
 </playground>
