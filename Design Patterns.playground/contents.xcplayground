@@ -4,5 +4,6 @@
         <page name='Strategy'/>
         <page name='Observer'/>
         <page name='Decorator'/>
+        <page name='Factory'/>
     </pages>
 </playground>
